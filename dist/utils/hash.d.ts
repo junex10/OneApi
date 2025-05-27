@@ -1,7 +1,7 @@
 declare const _default: {
-    make: (value: string) => any;
-    check: (value: string, hash: string) => any;
-    makeSync: (value: string) => any;
-    checkSync: (value: string, hash: string) => any;
+    make: (value: string) => Promise<string>;
+    check: (value: string, hash: string) => Promise<boolean>;
+    makeSync: (value: string) => string;
+    checkSync: (value: string, hash: string) => boolean;
 };
 export default _default;

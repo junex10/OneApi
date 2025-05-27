@@ -72,6 +72,7 @@ exports.AppModule = AppModule = __decorate([
             controllers_1.NotificationsModule,
             controllers_1.ProfileModule,
             controllers_1.HomeModule,
+            controllers_1.AppAuthModule,
             schedule_1.ScheduleModule.forRoot()
         ],
         providers: [

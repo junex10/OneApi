@@ -184,7 +184,7 @@ export class AuthController {
 		}
 	}
 
-	@Post('/modules/:level?')
+	@Post('/modules/:level')
 	async modules(@Param() params, @Res() response: Response) {
 		try {
 			return response.status(HttpStatus.OK).json({

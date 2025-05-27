@@ -233,7 +233,7 @@ __decorate([
     __metadata("design:returntype", Promise)
 ], AuthController.prototype, "reset", null);
 __decorate([
-    (0, common_1.Post)('/modules/:level?'),
+    (0, common_1.Post)('/modules/:level'),
     __param(0, (0, common_1.Param)()),
     __param(1, (0, common_1.Res)()),
     __metadata("design:type", Function),
