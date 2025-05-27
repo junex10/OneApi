@@ -1,0 +1,169 @@
+
+[10/4/2024 12:36:55] - Ha ocurrido un error de conexión, intente nuevamente
+[10/4/2024 12:36:55] - Field 'verified' doesn't have a default value
+[10/4/2024 12:36:55] - /api/auth/register
+[10/4/2024 12:38:2] - Ha ocurrido un error de conexión, intente nuevamente
+[10/4/2024 12:38:2] - Incorrect integer value: '[object Object]' for column 'verified' at row 1
+[10/4/2024 12:38:2] - /api/auth/register
+[10/4/2024 12:38:19] - Ha ocurrido un error de conexión, intente nuevamente
+[10/4/2024 12:38:19] - Field 'status' doesn't have a default value
+[10/4/2024 12:38:19] - /api/auth/register
+[10/4/2024 12:38:41] - Ha ocurrido un error de conexión, intente nuevamente
+[10/4/2024 12:38:41] - Cannot add or update a child row: a foreign key constraint fails (`recipes_share`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`level_id`) REFERENCES `levels` (`id`))
+[10/4/2024 12:38:41] - /api/auth/register
+[13/4/2024 12:28:14] - Connection error, please try again
+[13/4/2024 12:28:14] - Cannot read properties of null (reading 'save')
+[13/4/2024 12:28:14] - /api/auth/login
+[13/4/2024 12:28:28] - Connection error, please try again
+[13/4/2024 12:28:28] - Cannot read properties of null (reading 'save')
+[13/4/2024 12:28:28] - /api/auth/login
+[13/4/2024 12:30:40] - Connection error, please try again
+[13/4/2024 12:30:40] - Cannot read properties of null (reading 'save')
+[13/4/2024 12:30:40] - /api/auth/login
+[16/4/2024 18:11:9] - Connection error, please try again
+[16/4/2024 18:11:9] - Access denied for user 'root'@'localhost' (using password: YES)
+[16/4/2024 18:11:9] - /api/auth/login
+[16/4/2024 18:13:0] - Connection error, please try again
+[16/4/2024 18:13:0] - Access denied for user 'root'@'localhost' (using password: YES)
+[16/4/2024 18:13:0] - /api/auth/login
+[16/4/2024 18:13:41] - Connection error, please try again
+[16/4/2024 18:13:41] - connect ECONNREFUSED ::1:3306
+[16/4/2024 18:13:41] - /api/auth/login
+[16/4/2024 18:14:37] - Connection error, please try again
+[16/4/2024 18:14:37] - connect ECONNREFUSED ::1:3306
+[16/4/2024 18:14:37] - /api/auth/login
+[16/4/2024 18:14:58] - Connection error, please try again
+[16/4/2024 18:14:58] - connect ECONNREFUSED ::1:3306
+[16/4/2024 18:14:58] - /api/auth/login
+[16/4/2024 21:17:4] - Connection error, please try again
+[16/4/2024 21:17:4] - Table 'recipes_share.petition' doesn't exist
+[16/4/2024 21:17:4] - /api/petition/getPetitions/1/undefined
+[16/4/2024 21:17:40] - Connection error, please try again
+[16/4/2024 21:17:40] - Table 'recipes_share.petition' doesn't exist
+[16/4/2024 21:17:40] - /api/petition/getPetitions/1/undefined
+[16/4/2024 21:17:45] - Connection error, please try again
+[16/4/2024 21:17:45] - Table 'recipes_share.petition' doesn't exist
+[16/4/2024 21:17:45] - /api/petition/getPetitions/1/undefined
+[16/4/2024 21:18:6] - Connection error, please try again
+[16/4/2024 21:18:6] - Table 'recipes_share.petition' doesn't exist
+[16/4/2024 21:18:6] - /api/petition/getPetitions/1/undefined
+[16/4/2024 21:18:17] - Connection error, please try again
+[16/4/2024 21:18:17] - Table 'recipes_share.petition' doesn't exist
+[16/4/2024 21:18:17] - /api/petition/getPetitions/1/undefined
+[16/4/2024 21:18:45] - Connection error, please try again
+[16/4/2024 21:18:45] - Table 'recipes_share.petition' doesn't exist
+[16/4/2024 21:18:45] - /api/petition/getPetitions/1/undefined
+[16/4/2024 21:18:50] - Connection error, please try again
+[16/4/2024 21:18:50] - Table 'recipes_share.petition' doesn't exist
+[16/4/2024 21:18:50] - /api/petition/getPetitions/1/undefined
+[16/4/2024 21:18:53] - Connection error, please try again
+[16/4/2024 21:18:53] - Table 'recipes_share.petition' doesn't exist
+[16/4/2024 21:18:53] - /api/petition/getPetitions/1/undefined
+[16/4/2024 21:18:55] - Connection error, please try again
+[16/4/2024 21:18:55] - Table 'recipes_share.petition' doesn't exist
+[16/4/2024 21:18:55] - /api/petition/getPetitions/1/undefined
+[16/4/2024 21:19:10] - Connection error, please try again
+[16/4/2024 21:19:10] - Table 'recipes_share.petition' doesn't exist
+[16/4/2024 21:19:10] - /api/petition/getPetitions/1/undefined
+[16/4/2024 21:19:25] - Connection error, please try again
+[16/4/2024 21:19:25] - Table 'recipes_share.petition' doesn't exist
+[16/4/2024 21:19:25] - /api/petition/getPetitions/1/undefined
+[16/4/2024 21:19:28] - Connection error, please try again
+[16/4/2024 21:19:28] - Table 'recipes_share.petition' doesn't exist
+[16/4/2024 21:19:28] - /api/petition/getPetitions/1/undefined
+[17/4/2024 12:46:39] - Connection error, please try again
+[17/4/2024 12:46:39] - jwt must be provided
+[17/4/2024 12:46:39] - /api/auth/checkPermissions
+[24/4/2024 13:2:43] - Connection error, please try again
+[24/4/2024 13:2:43] - connect ECONNREFUSED ::1:3306
+[24/4/2024 13:2:43] - /api/auth/login
+[24/4/2024 13:3:11] - Connection error, please try again
+[24/4/2024 13:3:11] - connect ECONNREFUSED ::1:3306
+[24/4/2024 13:3:11] - /api/auth/login
+[27/4/2024 13:3:36] - Cannot POST /api/recipe/new
+[27/4/2024 13:3:36] - Not Found
+[27/4/2024 13:3:36] - /api/recipe/new
+[27/4/2024 13:4:11] - Cannot POST /api/recipe/new
+[27/4/2024 13:4:11] - Not Found
+[27/4/2024 13:4:11] - /api/recipe/new
+[28/4/2024 13:26:52] - Cannot POST /api/recipe/new
+[28/4/2024 13:26:52] - Not Found
+[28/4/2024 13:26:52] - /api/recipe/new
+[28/4/2024 13:30:6] - Access denied, there is not enough permissions to this action
+[28/4/2024 13:30:6] - Forbidden
+[28/4/2024 13:30:6] - /api/recipe/new
+[28/4/2024 13:31:33] - Access denied, there is not enough permissions to this action
+[28/4/2024 13:31:33] - Forbidden
+[28/4/2024 13:31:33] - /api/recipe/new
+[1/5/2024 15:46:22] - Could not add the recipe
+[1/5/2024 15:46:22] - Field 'user_id' doesn't have a default value
+[1/5/2024 15:46:22] - /api/recipe/new
+[1/5/2024 16:6:29] - Could not add the recipe
+[1/5/2024 16:6:29] - WHERE parameter "user_id" has invalid "undefined" value
+[1/5/2024 16:6:29] - /api/recipe/
+[1/5/2024 16:6:44] - Could not add the recipe
+[1/5/2024 16:6:44] - WHERE parameter "user_id" has invalid "undefined" value
+[1/5/2024 16:6:44] - /api/recipe/
+[1/5/2024 16:7:50] - Could not add the recipe
+[1/5/2024 16:7:50] - WHERE parameter "user_id" has invalid "undefined" value
+[1/5/2024 16:7:50] - /api/recipe/
+[1/5/2024 16:8:11] - Could not add the recipe
+[1/5/2024 16:8:11] - WHERE parameter "user_id" has invalid "undefined" value
+[1/5/2024 16:8:11] - /api/recipe/
+[1/5/2024 16:8:20] - Could not add the recipe
+[1/5/2024 16:8:20] - WHERE parameter "user_id" has invalid "undefined" value
+[1/5/2024 16:8:20] - /api/recipe/
+[1/5/2024 16:8:32] - Could not add the recipe
+[1/5/2024 16:8:32] - WHERE parameter "user_id" has invalid "undefined" value
+[1/5/2024 16:8:32] - /api/recipe/
+[1/5/2024 16:39:9] - Access denied, there is not enough permissions to this action
+[1/5/2024 16:39:9] - Forbidden
+[1/5/2024 16:39:9] - /api/profile/update
+[1/5/2024 18:21:14] - Access denied, there is not enough permissions to this action
+[1/5/2024 18:21:14] - Forbidden
+[1/5/2024 18:21:14] - /api/recipe/update
+[1/5/2024 18:47:56] - Could not remove the recipe
+[1/5/2024 18:47:56] - WHERE parameter "id" has invalid "undefined" value
+[1/5/2024 18:47:56] - /api/recipe/remove
+[1/5/2024 18:48:51] - Could not remove the recipe
+[1/5/2024 18:48:51] - WHERE parameter "id" has invalid "undefined" value
+[1/5/2024 18:48:51] - /api/recipe/remove
+[1/5/2024 18:49:14] - Could not remove the recipe
+[1/5/2024 18:49:14] - WHERE parameter "id" has invalid "undefined" value
+[1/5/2024 18:49:14] - /api/recipe/remove
+[1/5/2024 18:50:14] - Could not remove the recipe
+[1/5/2024 18:50:14] - WHERE parameter "id" has invalid "undefined" value
+[1/5/2024 18:50:14] - /api/recipe/remove
+[1/5/2024 18:50:53] - Could not remove the recipe
+[1/5/2024 18:50:53] - WHERE parameter "id" has invalid "undefined" value
+[1/5/2024 18:50:53] - /api/recipe/remove
+[1/5/2024 18:54:41] - Connection error, please try again
+[1/5/2024 18:54:41] - jwt must be provided
+[1/5/2024 18:54:41] - /api/auth/checkPermissions
+[1/5/2024 18:57:8] - Unexpected token u in JSON at position 267
+[1/5/2024 18:57:8] - Bad Request
+[1/5/2024 18:57:8] - /api/recipe/update
+[6/5/2024 16:32:8] - Connection error, please try again
+[6/5/2024 16:32:8] - jwt must be provided
+[6/5/2024 16:32:8] - /api/auth/checkPermissions
+[6/5/2024 16:32:8] - Connection error, please try again
+[6/5/2024 16:32:8] - jwt must be provided
+[6/5/2024 16:32:8] - /api/auth/checkPermissions
+[6/5/2024 16:32:8] - Access denied, there is not enough permissions to this action
+[6/5/2024 16:32:8] - Forbidden
+[6/5/2024 16:32:8] - /api/recipe/
+[7/5/2024 0:7:18] - Could not get the eeceipies
+[7/5/2024 0:7:18] - Unknown column 'Recipes.order' in 'where clause'
+[7/5/2024 0:7:18] - /api/home/
+[7/5/2024 0:7:54] - Could not get the eeceipies
+[7/5/2024 0:7:54] - Unknown column 'Recipes.order' in 'where clause'
+[7/5/2024 0:7:54] - /api/home/
+[15/5/2024 11:4:10] - Could not get the eeceipies
+[15/5/2024 11:4:10] - connect ECONNREFUSED ::1:3306
+[15/5/2024 11:4:10] - /api/home/
+[15/5/2024 11:4:14] - Could not get the eeceipies
+[15/5/2024 11:4:14] - connect ECONNREFUSED ::1:3306
+[15/5/2024 11:4:14] - /api/home/
+[15/5/2024 11:4:18] - Could not get the eeceipies
+[15/5/2024 11:4:18] - connect ECONNREFUSED ::1:3306
+[15/5/2024 11:4:18] - /api/home/

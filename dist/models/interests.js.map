@@ -1,0 +1,1 @@
+{"version":3,"file":"interests.js","sourceRoot":"","sources":["../../src/models/interests.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,+DAAwG;AAUjG,IAAM,SAAS,GAAf,MAAM,SAAU,SAAQ,4BAAK;CAInC,CAAA;AAJY,8BAAS;AAGlB;IADC,6BAAM;;uCACM;oBAHJ,SAAS;IALrB,IAAA,4BAAK,EAAC;QACL,UAAU,EAAE,IAAI;QAChB,QAAQ,EAAE,IAAI;QACd,SAAS,EAAE,WAAW;KACvB,CAAC;GACW,SAAS,CAIrB"}
