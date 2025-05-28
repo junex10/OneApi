@@ -203,11 +203,11 @@ export class AuthController {
 			const verified: number = await this.authService.verify(url);
 			if (verified) {
 				return response.status(HttpStatus.OK).json({
-					message: 'Usuario verificado correctamente'
+					message: 'User verified correctly'
 				});
 			} else {
 				return response.status(HttpStatus.OK).json({
-					error: 'No se pudo verificar al usuario y/o el usuario ya fue verificado'
+					error: 'We could not verified the user and/or the user was verified'
 				});
 			}
 		}

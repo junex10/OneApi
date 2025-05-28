@@ -167,3 +167,33 @@
 [15/5/2024 11:4:18] - Could not get the eeceipies
 [15/5/2024 11:4:18] - connect ECONNREFUSED ::1:3306
 [15/5/2024 11:4:18] - /api/home/
+[27/5/2025 21:47:43] - Connection error, please try again
+[27/5/2025 21:47:43] - Cannot read properties of undefined (reading 'token')
+[27/5/2025 21:47:43] - /api/auth/checkPermissions
+[27/5/2025 21:48:2] - Connection error, please try again
+[27/5/2025 21:48:2] - Cannot read properties of undefined (reading 'token')
+[27/5/2025 21:48:2] - /api/auth/checkPermissions
+[27/5/2025 21:48:27] - Connection error, please try again
+[27/5/2025 21:48:27] - Cannot read properties of undefined (reading 'token')
+[27/5/2025 21:48:27] - /api/auth/checkPermissions
+[27/5/2025 21:48:32] - Connection error, please try again
+[27/5/2025 21:48:32] - Cannot read properties of undefined (reading 'token')
+[27/5/2025 21:48:32] - /api/auth/checkPermissions
+[27/5/2025 21:49:19] - Connection error, please try again
+[27/5/2025 21:49:19] - Cannot read properties of undefined (reading 'token')
+[27/5/2025 21:49:19] - /api/auth/checkPermissions
+[27/5/2025 21:49:21] - Connection error, please try again
+[27/5/2025 21:49:21] - Cannot read properties of undefined (reading 'token')
+[27/5/2025 21:49:21] - /api/auth/checkPermissions
+[27/5/2025 21:49:22] - Connection error, please try again
+[27/5/2025 21:49:22] - Cannot read properties of undefined (reading 'token')
+[27/5/2025 21:49:22] - /api/auth/checkPermissions
+[27/5/2025 21:51:43] - Connection error, please try again
+[27/5/2025 21:51:43] - Cannot read properties of undefined (reading 'token')
+[27/5/2025 21:51:43] - /api/auth/checkPermissions
+[27/5/2025 21:51:44] - Connection error, please try again
+[27/5/2025 21:51:44] - Cannot read properties of undefined (reading 'token')
+[27/5/2025 21:51:44] - /api/auth/checkPermissions
+[27/5/2025 21:52:18] - Connection error, please try again
+[27/5/2025 21:52:18] - Cannot read properties of undefined (reading 'token')
+[27/5/2025 21:52:18] - /api/auth/checkPermissions
